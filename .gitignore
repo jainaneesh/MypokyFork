@@ -7,7 +7,9 @@ pyshtables.py
 pstage/
 scripts/oe-git-proxy-socks
 sources/
-meta-*/
+meta-selftest/
+meta-skeleton/
+meta-yocto-bsp/
 buildtools/
 !meta-skeleton
 !meta-selftest
